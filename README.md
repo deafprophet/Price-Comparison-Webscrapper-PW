@@ -18,8 +18,9 @@ The Web Scrapper is a Python-based tool that leverages a graphical user interfac
 
 Install the required Python libraries:
 
-```bash
+```python
 pip install tkinter pandas openpyxl selenium webdriver_manager
+```
 
 ## Running the Script
 To run the script, use the following command in a Python environment:
@@ -29,9 +30,9 @@ python webscrapper.py
 ```
 
 ## Dependencies
-Python 3
-Tkinter (for the GUI)
-Pandas (for data manipulation)
-Openpyxl (for Excel operations)
-Selenium (for web scraping tasks)
-Webdriver_manager (for browser driver management)
+- Python 3
+- Tkinter (for the GUI)
+- Pandas (for data manipulation)
+- Openpyxl (for Excel operations)
+- Selenium (for web scraping tasks)
+- Webdriver_manager (for browser driver management)
